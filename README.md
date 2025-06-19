@@ -11,6 +11,7 @@
 </div>
 
 ## Updates
+- <b>[06/20/2025] Data Correction</b>: The ID in `submission/HOI4D/Video1/id.txt` is incorrect. It should be `ZY20210800001/H1/C8/N11/S321/s03/T2`. Thx to [gaperezsa](https://github.com/gaperezsa) for identifying and reporting this issue.
 - <b>[12/01/2024]</b>  Initial code release
 
 ## 📝 TODO List
